@@ -1,0 +1,10 @@
+.info-card {
+    margin-right: 1.5rem;
+    margin-top: 1.5rem;
+    text-align: left;
+}
+
+.info-card h4 {
+    font-size: large;
+    color: dodgerblue;
+}

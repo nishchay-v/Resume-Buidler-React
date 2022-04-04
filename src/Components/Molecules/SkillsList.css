@@ -1,0 +1,7 @@
+.bubble {
+    display: inline;
+    background-color: gainsboro;
+    margin: 16px 4px;
+    padding: 4px;
+    border-radius: 25px;
+}

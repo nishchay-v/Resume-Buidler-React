@@ -1,0 +1,9 @@
+.logo {
+    margin: 1rem;
+    width: 10rem;
+}
+
+.resume-header {
+    display: flex;
+    justify-content: space-between;
+}

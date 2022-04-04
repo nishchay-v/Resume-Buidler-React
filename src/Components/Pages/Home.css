@@ -1,0 +1,15 @@
+.builder {
+    display: flex;
+    flex-direction: row;
+}
+.editor {
+    width: 50%;
+}
+.preview {
+    height: 100%;
+    width: 50%;
+    border-left: 2px dashed;
+}
+.heading {
+    margin: 1rem;
+}

@@ -1,0 +1,13 @@
+ul {
+    list-style: none;
+}
+
+.education-card {
+    text-align: start;
+    padding: 4px 12px 4px 12px;
+    margin: 6px 8px 6px 8px;
+    border: 2px solid gainsboro;
+}
+.education-card h4 {
+    margin: 4px;
+}
